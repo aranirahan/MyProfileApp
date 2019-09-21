@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyProfileApp</string>
+    <string-array name="gender">
+        <item name="laki">Laki-laki</item>
+        <item name="pr">Perempuan</item>
+    </string-array>
+</resources>
